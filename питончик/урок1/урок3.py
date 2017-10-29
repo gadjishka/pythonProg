@@ -1,0 +1,6 @@
+number1 = int(input("введите первое число:"))
+number2 = int(input("введите второе число:"))
+print(number1 / number2)
+texst1 = input("введите первое имя:")
+texst2 = input("введите второе имя:")
+print(texst1 + " + " + texst2 + " = дружба ")
