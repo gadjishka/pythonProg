@@ -1,0 +1,7 @@
+Dota2:                      0
+Skyrim:                     1
+S.T.A.L.K.E.R 2:            100000000
+CS GO:                      2
+Overwatch:                  3
+The Witcher 3:              4
+Uncharted 4:                5

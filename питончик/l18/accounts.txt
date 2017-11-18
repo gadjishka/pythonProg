@@ -1,0 +1,6 @@
+fff:ddd
+rrr:ttt
+ttt:гадю
+
+lukman: 2003
+eee: rrr
